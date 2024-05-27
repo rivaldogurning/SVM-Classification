@@ -8,4 +8,4 @@
 Program ini adalah sebuah klasifikasi data dengan metode SVM pada data Diabetes.
 
 ## Requirement Program
-1. Python
+1. Jupyter Notebook
